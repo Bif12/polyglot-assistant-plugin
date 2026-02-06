@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-polyglot",
+    "name": "Polyglot Assistant",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "A comprehensive language tool combining Dictionary and AI Translator. Supports German-Arabic translation with audio playback.",
+    "author": "Bif12",
+    "authorUrl": "https://github.com/Bif12",
+    "isDesktopOnly": false
+}

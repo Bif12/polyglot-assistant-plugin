@@ -164,7 +164,6 @@ Seamlessly integrates **Dictionary Lookup** for precise word definitions with **
 |---------------|---------------|
 | 🇩🇪 German ↔ 🇸🇦 Arabic | ✅ Full bidirectional |
 | 🇬🇧 English | 🔶 Partial support |
-| 🇫🇷 French | 🔶 Partial support |
 | More languages | 🔜 Coming soon |
 
 ---

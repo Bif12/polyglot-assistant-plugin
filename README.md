@@ -163,9 +163,7 @@ Seamlessly integrates **Dictionary Lookup** for precise word definitions with **
 | Language Pair | Support Level |
 |---------------|---------------|
 | 🇩🇪 German ↔ 🇸🇦 Arabic | ✅ Full bidirectional |
-| 🇬🇧 English | 🔶 Partial support |
-| More languages | 🔜 Coming soon |
-
+| 🇬🇧 English    |  🔜 Coming soon |
 ---
 
 ## 🔧 Troubleshooting

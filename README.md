@@ -189,8 +189,7 @@ Seamlessly integrates **Dictionary Lookup** for precise word definitions with **
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Bif12/polyglot-assistant-plugin/issues)
 - 💡 **Feature Requests**: [GitHub Issues](https://github.com/Bif12/polyglot-assistant-plugin/issues)
-- 📧 **Contact**: khalid.bifounra.98@edu.uiz.ac.ma
-
+- 📧 **Contact**: 
 ---
 
 ## 📄 License
